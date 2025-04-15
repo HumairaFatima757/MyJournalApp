@@ -31,7 +31,7 @@ const CreateNotes = () => {
 
   return (
     <>
-      <div className="w-[500px] h-100 mx-auto bg-pink-300 rounded-lg p-4 shadow-md mt-8 text-3xl font-black text-gray-500 border-2">
+      <div className="w-[500px] h-120 mx-auto bg-pink-300 rounded-lg p-4 shadow-md mt-25 text-3xl font-black text-gray-500 border-2">
         <form onSubmit={handleSubmit}>
           <div className="">
             Title:{" "}
